@@ -17,4 +17,19 @@ sudo apt install python3.10
 brew install python@3.10
 ```
 
+## Install Flask
+After installing Python, you need to install Flask, a web framework for Python.
 
+``` pip install Flask ```
+
+## Training a GPT4all Model
+
+### Clone the GPT4All Repository:
+`git clone https://github.com/gpt4all/gpt4all.git`
+
+## Run Flask
+Use the `flask run` command to start the development server.
+`flask run`
+
+## Test with Postman
+Go to [Postman](https://www.postman.com), enter URL: http://127.0.0.1:5000/chat
