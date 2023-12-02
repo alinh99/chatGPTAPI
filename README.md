@@ -17,10 +17,10 @@ sudo apt install python3.10
 brew install python@3.10
 ```
 
-## Install Flask
-After installing Python, you need to install Flask, a web framework for Python.
+## Install requirements
+After installing Python, you need to install the requirements.
 
-``` pip install Flask ```
+``` pip install -r requirement.txt ```
 
 ## Training a GPT4all Model
 
