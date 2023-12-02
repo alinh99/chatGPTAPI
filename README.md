@@ -26,6 +26,10 @@ After installing Python, you need to install Flask, a web framework for Python.
 
 ### Clone the GPT4All Repository:
 `git clone https://github.com/gpt4all/gpt4all.git`
+Follow the instruction of GPT4All model with Python version 3.10
+
+## Modify directory used in chat.py file
+In line 8, change your suitable directory in MODEL_NAME parameter
 
 ## Run Flask
 Use the `flask run` command to start the development server.
