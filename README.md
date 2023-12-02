@@ -32,4 +32,4 @@ Use the `flask run` command to start the development server.
 `flask run`
 
 ## Test with Postman
-Go to [Postman](https://www.postman.com), enter URL: http://127.0.0.1:5000/chat
+Go to [Postman](https://www.postman.com), enter URL: http://127.0.0.1:5000/chat with POST method, the body is input_text for key and value is your input.
